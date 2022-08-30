@@ -20,10 +20,10 @@ $ ./gen_tree <PathOfSpace> <PathOfResult>
 ## 🎁 Example of use
 
 ```bash
-$ git clone https://gitlab.int.ubika.io/nathanC/documentation-ubika.git
+$ git clone https://github.com/CatalanNathan/Confluence-to-Mardown
 $ cd documentation-ubika/gen_tree
 $ gcc main.c -o gen_tree && npm i
-$ ./gen_tree /home/nathan/Téléchargements/WAF656EN/ /home/nathan/result
+$ ./gen_tree /home/nathan/Téléchargements/WAF/ /home/nathan/result
 Create Tree :
 Ok
 Convert *.html on *.md :
